@@ -30,7 +30,7 @@ To install and run the ShowSpot application locally, please follow these steps:
 
 5. Start the development server:
    ```
-   npm run serve
+   npm run dev
    ```
 
 6. Access the application in your web browser at `http://localhost:8080`.
